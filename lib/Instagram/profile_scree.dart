@@ -135,7 +135,7 @@ class ProfileScreen extends StatelessWidget {
                   Padding(
                     padding: EdgeInsets.only(left: 8.0),
                     child: Text(
-                      'I welcome you to my profile please do not stalk me because I am sadboy',
+                      'I am sadboy please go away',
                       style: TextStyle(color: Colors.white),
                     ),
                   ),

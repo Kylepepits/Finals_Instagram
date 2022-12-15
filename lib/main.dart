@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:practice_widgets/instagram/main_screen.dart';
-import 'package:practice_widgets/screens/media_query.dart';
-import 'package:practice_widgets/screens/screen_one.dart';
 
 void main() {
   runApp(const MyApp());
